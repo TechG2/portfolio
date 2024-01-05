@@ -1,7 +1,7 @@
 # Portfolio
 Below is a list of all the areas where I am competent and the related projects and experiences made with it.
 
-# Experiences
+## Experiences
 I have worked/I'm working in:
 - [DevRoom](https://discord.gg/devroom) (Discord Bot Developer)
 - [Arcane Studios](https://discord.gg/arcanestudios) (Discord Bot Developer and Back-end Web Developer)
@@ -10,6 +10,7 @@ I have worked/I'm working in:
 # Projects
 ## Discord Bot Developer:
 - [Stats Bot](https://github.com/TechG2/Server-Stats-Bot)
+- [Custom Commands Bot](https://github.com/TechG2/custom-commands-bot)
 
 ## Back-end Web Developer:
 - [WebShop](https://github.com/TechG2/web-shop)
