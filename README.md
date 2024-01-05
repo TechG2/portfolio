@@ -13,4 +13,4 @@ I have worked/I'm working in:
 - [Custom Commands Bot](https://github.com/TechG2/custom-commands-bot)
 
 ## Back-end Web Developer:
-- [WebShop](https://github.com/TechG2/web-shop)
+- [Web Shop](https://github.com/TechG2/web-shop)
