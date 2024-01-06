@@ -6,7 +6,7 @@ I have worked/I'm working in:
 - [DevRoom](https://discord.gg/devroom) (Discord Bot Developer)
 - [Arcane Studios](https://discord.gg/arcanestudios) (Discord Bot Developer and Back-end Web Developer)
 - [Condor Studios](https://discord.gg/candor-studios-650773903236399134) (Discord Bot Developer)
-- [Paragon Studios](https://discord.gg/28cESwXf) (Discord Bot Dev and Back-end Web Developer)
+- [Paragon Studios](https://discord.gg/28cESwXf) (Discord Bot Developer and Back-end Web Developer)
 
 # Projects
 ## Discord Bot Developer:
