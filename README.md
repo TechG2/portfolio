@@ -9,10 +9,11 @@ I have worked/I'm working in:
 - [Paragon Studios](https://discord.gg/28cESwXf) (Discord Bot Developer and Back-end Web Developer)
 
 # Projects
-## Discord Bot Developer:
+## Discord Bot:
 - [Stats Bot](https://github.com/TechG2/Server-Stats-Bot)
 - [Custom Commands Bot](https://github.com/TechG2/custom-commands-bot)
+- [Ticket System Bot](https://github.com/TechG2/ticket-system-bot)
 
-## Back-end Web Developer:
+## Back-end Web:
 - [Web Shop](https://github.com/TechG2/web-shop)
 - [Tasks API](https://github.com/TechG2/tasks-api)
