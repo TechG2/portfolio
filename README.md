@@ -14,6 +14,9 @@ I have worked/I'm working in:
 - [Custom Commands Bot](https://github.com/TechG2/custom-commands-bot)
 - [Ticket System Bot](https://github.com/TechG2/ticket-system-bot)
 
+## Full-stack Web:
+- [Full-Stack Blog](https://github.com/TechG2/full-stack-blog/tree/master)
+
 ## Back-end Web:
 - [Web Shop](https://github.com/TechG2/web-shop)
 - [Tasks API](https://github.com/TechG2/tasks-api)
